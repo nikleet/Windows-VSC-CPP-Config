@@ -1,0 +1,1 @@
+g++ -g *.cpp --std=c++11 -o %1.exe
